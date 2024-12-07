@@ -1,4 +1,4 @@
-package com.klef.jfsd.Exam;
+package com.klef.jfsd.exam;
 
 import javax.persistence.*;
 

@@ -19,6 +19,6 @@
         <property name="hibernate.hbm2ddl.auto">update</property>
 
         <!-- Annotated Classes -->
-        <mapping class="com.klef.jfsd.Exam.Customer" />
+        <mapping class="com.klef.jfsd.exam.Customer" />
     </session-factory>
 </hibernate-configuration>
